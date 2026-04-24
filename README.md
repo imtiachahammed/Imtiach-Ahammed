@@ -1,7 +1,7 @@
 # Imtiach Ahammed Samir
 
-**Founder & CEO — AuraithX**
-**Co-founder — Vesper Lusso**
+**Founder & CEO — AuraithX,**
+**Co-founder — Vesper Lusso,**
 **Based in Chittagong, Bangladesh**
 
 ---
