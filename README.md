@@ -1,7 +1,6 @@
 # Imtiach Ahammed Samir
 
 **Founder & CEO — AuraithX,**
-**Co-founder — Vesper Lusso,**
 **Based in Chittagong, Bangladesh**
 
 ---
@@ -19,9 +18,7 @@ I'm learning to code because the company I'm building demands it. AuraithX is my
 **AuraithX** — An IT company today. A technology empire tomorrow.
 Divisions in progress: Fintech · AI Research · Satellite Tech · Defense · Semiconductors
 
-**S.S Pay** *(Shorbo Shadin Payment)* — A fintech product in development. Details private.
-
-**Vesper Lusso** — A clothing brand built on craft and identity.
+**S.S Pay** *(Shorbo Shadin Payment)* — A fintech product in development.
 
 **Livelo Menon** — A watch manufacturing startup.
 
@@ -30,6 +27,7 @@ Divisions in progress: Fintech · AI Research · Satellite Tech · Defense · Se
 ## What I'm currently learning
 
 - Python — fundamentals to applied development
+- Full Stack Development.
 - Building toward: A.I Development, backend systems, fintech architecture, machine learning
 
 ---
